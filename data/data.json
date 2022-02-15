@@ -1,0 +1,10 @@
+{
+  "course": {
+    "id": 1,
+    "course_title": "Yoga For All Ages With Suryanamaskaraa",
+    "price": 23,
+    "details": "What exactly is Yoga, and why is it become so popular?",
+    "duration": "2hr 30min",
+    "instructor": "Ankur Garg"
+  }
+}
